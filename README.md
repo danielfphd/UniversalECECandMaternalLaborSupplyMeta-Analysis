@@ -1,4 +1,4 @@
-# UniversalECECandMaternalLaborSupplyMeta-Analysis
+# Universal ECEC and Maternal Labor Supply Meta-Analysis
 
 This repository contains the datasets and coding files associated with the analysis for the paper "Mothers at Work? The Impact of Universal Early Childhood Education and Care Programs: A Meta-Analysis." For each meta-analysis, there is a corresponding dataset and coding file. For instance, to replicate the results from the cross-sectional intention-to-treat meta-analysis exploring employment/LFP as outcomes, upload the coding file "Employment_ITT_Concurrent.R" and import the dataset "Employment_ITT_Concurrent.csv."
 
